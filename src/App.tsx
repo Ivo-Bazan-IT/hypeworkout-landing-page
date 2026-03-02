@@ -154,6 +154,29 @@ export default function TrainerLandingPage() {
             {/* Testimonial Card 1 */}
             <div className="bg-zinc-800 rounded-lg p-5 border border-zinc-700 shadow-md">
               <p className="text-sm text-zinc-200 mb-3">
+                "Entrenar con Iván te hace ver el deporte de otra manera. Es la
+                primera vez que siento de verdad la sobrecarga progresiva. Se
+                nota la pasión y el detalle con el que planifica cada sesión:
+                cada ejercicio tiene un propósito, está adaptado a mis objetivos
+                y hasta me explica la parte técnica cuando hace falta. Gracias a
+                su conocimiento estoy con una rutina híbrida que me está
+                haciendo saltar más alto en Basket, ganando fuerza REAL en
+                Calistenia y disfrutando el proceso. Es más que un entrenador,
+                es alguien que se compromete realmente con tu progreso"
+              </p>
+              <p className="text-xs text-zinc-500">
+                <a
+                  href="https://www.instagram.com/axelcardozzo/"
+                  target="_blank"
+                >
+                  @axelcadozzo
+                </a>
+              </p>
+            </div>
+
+            {/* Testimonial Card 2 */}
+            <div className="bg-zinc-800 rounded-lg p-5 border border-zinc-700 shadow-md">
+              <p className="text-sm text-zinc-200 mb-3">
                 "Desde que arrancamos tu rutina, no paramos de ver cambios
                 dentro de la cancha, no seríamos lo que somos como deportistas
                 si no fuera por vos."
@@ -174,23 +197,20 @@ export default function TrainerLandingPage() {
                 </a>
               </p>
             </div>
-
-            {/* Testimonial Card 2 */}
-            <div className="bg-zinc-800 rounded-lg p-5 border border-zinc-700 shadow-md">
-              <p className="text-sm text-zinc-200 mb-3">
-                "La corrección biomecánica cambió completamente mi forma de
-                entrenar."
-              </p>
-              <p className="text-xs text-zinc-500">@maria_fitness_arg</p>
-            </div>
-
             {/* Testimonial Card 3 */}
             <div className="bg-zinc-800 rounded-lg p-5 border border-zinc-700 shadow-md">
               <p className="text-sm text-zinc-200 mb-3">
                 "Seguimiento semanal que realmente funciona. Siento la
                 diferencia."
               </p>
-              <p className="text-xs text-zinc-500">@carlos_strength</p>
+              <p className="text-xs text-zinc-500">
+                <a
+                  href="https://www.instagram.com/maxiculjak_/"
+                  target="_blank"
+                >
+                  @maximoculjak_
+                </a>
+              </p>
             </div>
           </div>
         </section>
