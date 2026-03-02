@@ -6,6 +6,7 @@ import {
   Instagram,
   ChevronDown,
 } from "lucide-react";
+import profilePic from "./assets/images/profile-pic.jpg";
 
 function Accordion() {
   const [isOpen, setIsOpen] = useState(false);
@@ -93,7 +94,7 @@ export default function TrainerLandingPage() {
           {/* Avatar */}
           <div className="mb-6">
             <img
-              src="src/assets/images/profile-pic.jpg"
+              src={profilePic}
               alt="Entrenador Personal"
               className="w-24 h-24 rounded-full border-4 border-orange-500 object-cover shadow-lg"
             />
