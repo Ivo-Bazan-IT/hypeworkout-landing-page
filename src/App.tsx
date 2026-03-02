@@ -154,10 +154,13 @@ export default function TrainerLandingPage() {
             {/* Testimonial Card 1 */}
             <div className="bg-zinc-800 rounded-lg p-5 border border-zinc-700 shadow-md">
               <p className="text-sm text-zinc-200 mb-3">
-                "Logré mi primer Muscle-up en 4 semanas. Nunca pensé que era
-                posible."
+                "Desde que arrancamos tu rutina, no paramos de ver cambios
+                dentro de la cancha, no seríamos lo que somos como deportistas
+                si no fuera por vos."
               </p>
-              <p className="text-xs text-zinc-500">@juan_calistenia</p>
+              <p className="text-xs text-zinc-500">
+                @farinas_felipe @agus.mandile_
+              </p>
             </div>
 
             {/* Testimonial Card 2 */}
