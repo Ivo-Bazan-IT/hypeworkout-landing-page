@@ -197,7 +197,7 @@ export default function TrainerLandingPage() {
         {/* ==================== VALUE PROPOSITION ==================== */}
         <section className="py-10 border-t border-zinc-800">
           <h2 className="text-2xl font-bold tracking-tight mb-6 text-center">
-            ¿Cómo trabajo y que te ofreceré?
+            ¿Cómo trabajo y que te voy a ofrecer?
           </h2>
 
           <ul className="space-y-4">
