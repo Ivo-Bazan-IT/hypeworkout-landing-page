@@ -165,6 +165,7 @@ export default function TrainerLandingPage() {
                 >
                   @farinas_felipe
                 </a>
+                <br />
                 <a
                   href="https://www.instagram.com/agus.mandile_/?hl=es-la"
                   target="_blank"
