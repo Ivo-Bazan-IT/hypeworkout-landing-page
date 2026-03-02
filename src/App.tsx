@@ -159,7 +159,18 @@ export default function TrainerLandingPage() {
                 si no fuera por vos."
               </p>
               <p className="text-xs text-zinc-500">
-                @farinas_felipe @agus.mandile_
+                <a
+                  href="https://www.instagram.com/farinas_felipe/?hl=es-la"
+                  target="_blank"
+                >
+                  @farinas_felipe
+                </a>
+                <a
+                  href="https://www.instagram.com/agus.mandile_/?hl=es-la"
+                  target="_blank"
+                >
+                  @agus.mandile_
+                </a>
               </p>
             </div>
 
