@@ -169,7 +169,7 @@ export default function TrainerLandingPage() {
                   href="https://www.instagram.com/axelcardozzo/"
                   target="_blank"
                 >
-                  @axelcadozzo
+                  @axelcardozzo
                 </a>
               </p>
             </div>
