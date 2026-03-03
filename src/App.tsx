@@ -200,8 +200,9 @@ export default function TrainerLandingPage() {
             {/* Testimonial Card 3 */}
             <div className="bg-zinc-800 rounded-lg p-5 border border-zinc-700 shadow-md">
               <p className="text-sm text-zinc-200 mb-3">
-                "Seguimiento semanal que realmente funciona. Siento la
-                diferencia."
+                "El entrenamiento que ofreces está 100% optimizado a las
+                necesidades y objetivos del alumno. El progreso es inevitable
+                siempre y cuando se cumpla con este."
               </p>
               <p className="text-xs text-zinc-500">
                 <a
